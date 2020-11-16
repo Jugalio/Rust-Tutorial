@@ -1,4 +1,4 @@
 #[test]
-fn should_fail(){
+fn should_fail() {
     unimplemented();
 }
