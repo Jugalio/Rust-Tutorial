@@ -1,0 +1,5 @@
+[package]
+name = "variables"
+version = "0.1.0"
+authors = ["Falk von Ohlen <->"]
+edition = "2018"

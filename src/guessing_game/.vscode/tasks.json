@@ -3,15 +3,15 @@
 	"tasks": [
 		{
 			"type": "cargo",
-			"subcommand": "build",
+			"subcommand": "",
 			"problemMatcher": [
 				"$rustc"
 			],
 			"group": {
-				"kind": "build",
-				"isDefault": true
-			},
-			"label": "Rust: cargo build - guessing_game"
+                "kind": "build",
+                "isDefault": true
+            },
+			"label": "rust: cargo build"
 		}
 	]
 }
